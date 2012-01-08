@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Testing Box2D</string>
+    <string name="clear">Wyczyść</string>
+    <string name="rotate">Obróć</string>
+    <string name="gravity">Grawitacja</string>
+    <string name="gravity_normal">Ziemska</string>
+    <string name="gravity_moon">Księżycowa</string>
+    <string name="gravity_zero">Zerowa</string>
+    <string name="gravity_accelerometer">Przyspieszeniomierz</string>
+
+</resources>
