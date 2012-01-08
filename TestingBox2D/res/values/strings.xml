@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Testing Box2D</string>
+    <string name="clear">Clear</string>
+    <string name="rotate">Rotate</string>
+    <string name="gravity">Gravity</string>
+    <string name="gravity_normal">Earth</string>
+    <string name="gravity_moon">Moon</string>
+    <string name="gravity_zero">Zero</string>
+    <string name="gravity_accelerometer">Accelerometer</string>
+
+</resources>
